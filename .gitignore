@@ -1,2 +1,4 @@
-env
+env*
 __pycache__
+app/src/config/config_aws.py
+app/src/config/rootkey.csv
