@@ -22,7 +22,7 @@ class Upload(Page):
         pass
 
     def write(self):
-        st.title("Western Blot")
+        st.title("Upload")
         uploaded_image = st.file_uploader(
             "Upload an image", type=["jpg", "png", "jpeg"]
         )

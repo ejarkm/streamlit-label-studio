@@ -22,4 +22,4 @@ LABEL_INTERFACES = (
     ],
 )
 
-LABEL_USER = ({"pk": 1, "firstName": "Western", "lastName": "Blot"},)
+LABEL_USER = ({"pk": 1, "firstName": "Test", "lastName": "User"},)
